@@ -2,14 +2,6 @@
 
 A simple, ready-to-use Next.js boilerplate for rapid prototyping with PostgreSQL database integration.
 
-## Features
-
-- ⚡ Next.js 14 with App Router
-- 🗃️ PostgreSQL database integration
-- 🎨 Simple, clean UI for quick prototyping
-- 🔌 API routes with CRUD operations
-- 📱 Responsive design
-
 ## Quick Setup
 
 ### Prerequisites
@@ -100,4 +92,4 @@ For production, consider:
 3. Adding authentication/authorization
 4. Implementing proper error handling and logging
 
-Happy prototyping! 🚀
+Happy prototyping!
