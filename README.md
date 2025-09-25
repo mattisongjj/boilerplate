@@ -14,12 +14,12 @@ A simple, ready-to-use Next.js boilerplate for rapid prototyping with PostgreSQL
 
 ### Prerequisites
 
-- Node.js 18+ installed
-- PostgreSQL installed and running
+- [Node.js 18+](https://nodejs.org/en/download) installed
+- [PostgreSQL](https://www.postgresql.org/download/macosx/) installed and running
 
 ### Other useful tools
 
-- pgadmin
+- [pgadmin](https://www.pgadmin.org/)
 
 ### 1. Install Dependencies
 
